@@ -13,4 +13,4 @@ I am interested in contemporary art and exhibitions, I like to watch art and fes
 * MySQL
 
 
-![alt text](/Users/ilakrylov/Documents/learning swift/git/my repo/img/1.png "Picture")​
+![alt text](img/1.png "Picture")​
